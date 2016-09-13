@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. Brent Ferrier
+2. To turn data into meaningful decisions
+3. I am primarily a R and SQL developer. I have used python a little. A new language I am working on learning is SAS.
+4. I have taken all the way up to PhD level stats courses. I use statistics on a regular basis. In my work I primarily use it for process improvement and evaluating machine learning algorithms.
+5. I have a ton of experience with R but I am a beginner in Python.
+6. I am hoping to learn more about Python
+7. SQL Server 2016 will have in database R calculations. Anyone else excited about the performance boost to in database calculations?
